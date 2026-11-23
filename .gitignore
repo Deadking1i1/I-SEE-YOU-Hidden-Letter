@@ -1,0 +1,16 @@
+__pycache__/
+.pytest_cache/
+*.pyc
+output/
+*.key
+*.secret
+*.plain
+*.bin
+!hidden_message_payload.bin
+binary_letter.txt
+private_letter.txt
+hidden_message_source*
+*.mp4
+*.png
+*.jpg
+*.jpeg
